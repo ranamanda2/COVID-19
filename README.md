@@ -10,6 +10,9 @@ expected a week in future based on the current trends
 
 # Guidelines:
 • Use pandas to accumulate data
+
 • Use plotly (visualization library) to create interactive visualizations
+
 • Use Facebook prophet library to make time series models
+
 • Visualize the prediction by combining these technologies
